@@ -5,7 +5,7 @@ import mongoose from 'mongoose';
 import { config } from './config/config';
 
 const app = express();
-const PORT = process.env.PORT || 3802;
+const PORT = process.env.PORT || 3182;
 
 app.use(cors());
 app.use(express.json());

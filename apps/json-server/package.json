@@ -1,10 +1,10 @@
 {
-  "name": "@mernturbo/json-server",
+  "name": "@mesnturbo/json-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "json-server --watch ./index.js --port 3809",
+    "dev": "json-server --watch ./index.js --port 3189",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
